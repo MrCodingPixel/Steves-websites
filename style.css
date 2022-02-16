@@ -1,3 +1,4 @@
+
 body{
   background-color: #f4f4f4;
   color:#555;
@@ -40,7 +41,7 @@ body{
 }
 
 #showcase{
-  background-image: url('/My Website/Imagess/imagesssss.jpeg');
+  background-image: url('imagesssss.jpeg');
   background-position:right center;
   min-height: 300px;
   margin-bottom: 30px;
@@ -87,5 +88,4 @@ body{
 #sidebar{
   width: 100px;
   float: none;
-}
 }
